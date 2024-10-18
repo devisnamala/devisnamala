@@ -70,7 +70,7 @@ Client: Humana (Go365 Wellness Program)
 ### 📬 Get In Touch
 
 - **Email:** sirisha.namala2000@gmail.com  
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sireesha-namala)  
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sireesha-namala-qa/)  
 - **GitHub:** [github.com/sireesha-namala](https://github.com/sireesha-namala)
 
 ---
