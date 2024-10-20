@@ -193,4 +193,4 @@ I am a detail-oriented **Automation Test Engineer** with over 4 years of hands-o
 
 - 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sireesha-namala-qa/) 
 - 📧 **Email:**(sirisha.namala2000@gmail.com ) 
-- 🌐 **GitHub:** [github.com/sireesha-namala](https://github.com/devisnamala/devisnamala)
+- 🌐 **GitHub:** [github.com/sireesha-namala](https://github.com/devisnamala)
