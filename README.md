@@ -118,6 +118,9 @@ I am a detail-oriented **Automation Test Engineer** with over 4 years of hands-o
   </a>
 </p>
 
+
+---
+
 ## 📊 Experience Snapshot
 
 ### ![QAWORKFORCE LTD](https://img.shields.io/badge/QAWORKFORCE%20LTD-%23007ACC.svg?style=for-the-badge&logoColor=white&color=black) **Automation Tester** | <span style="color: #999;">  📅</span> <em>November 2023 - Present</em>
