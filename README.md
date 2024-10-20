@@ -11,8 +11,6 @@ I am a detail-oriented **Automation Test Engineer** with over 4 years of hands-o
 <br><br>
 
 ## 🛠️ Technical Skills
-
-<details><summary><b><i>Tech Stack</i></b></summary>
   
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = "50px">  </picture> Programming languages
 <p> 
@@ -119,7 +117,6 @@ I am a detail-oriented **Automation Test Engineer** with over 4 years of hands-o
     <img alt="Axe DevTools" src="https://img.shields.io/badge/Axe%20DevTools-%234B8BBE.svg?style=plastic&logo=axe&logoColor=white" width="120px">
   </a>
 </p>
-</details><br>
 
 ## 📊 Experience Snapshot
 
