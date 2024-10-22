@@ -165,20 +165,31 @@ I am a detail-oriented **Automation Test Engineer** with over 4 years of hands-o
 <i>**Client**: Humana (Go365 Wellness Program)</i>
 
  <i>**Tools**:</i>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-00A300?style=for-the-badge&logo=cucumber&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-1A8C3A?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-![RestAssured](https://img.shields.io/badge/RestAssured-5D6B8A?style=for-the-badge&logo=undefined&logoColor=white)
+<i>**Tools**:</i>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white) 
+![Cucumber](https://img.shields.io/badge/Cucumber-00A300?style=for-the-badge&logo=cucumber&logoColor=white) 
+![JMeter](https://img.shields.io/badge/JMeter-1A8C3A?style=for-the-badge&logo=apache-jmeter&logoColor=white) 
+![RestAssured](https://img.shields.io/badge/RestAssured-5D6B8A?style=for-the-badge&logo=undefined&logoColor=white) 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+
 
 <details><summary><b><i>Responsibilities</i></b></summary>
 
-- 🤖 **Automation:** Developed automated test scripts using the Page Object Model (POM) framework for better maintainability and reusability.
-- 🚀 **Performance Testing:** Conducted performance testing using JMeter and performed load testing for APIs to ensure scalability and reliability.
-- 📈 **Application Monitoring:** Monitored application performance with Dynatrace and reported defects via JIRA for effective issue tracking and resolution.
+- 🤝 **Collaboration:** Worked as a Test Analyst in an Agile team with Scrum Master, Product Owner, Business Analysts, Developers, and Testers.
+- 📝 **Test Development:** Created Test Plans, Test Cases, and Test Data for User Stories each sprint.
+- 🤖 **UI Automation:** Automated UI tests using **Selenium**, **Java**, **Maven**, **JUnit**, and **Cucumber**.
+- 🌐 **API Testing:** Conducted integration testing on REST microservices with **Postman** and **RestAssured**.
+- 📱 **Mobile Testing:** Developed automated tests for native mobile apps using **Appium**.
+- 🛠️ **Version Control:** Maintained test automation framework using **Git** and **GitHub**.
+- 🔄 **CI/CD:** Executed tests with **Azure DevOps** for continuous integration.
+- 🔍 **Defect Management:** Reported defects using **JIRA** and collaborated with developers for resolution.
+- ✅ **Testing Activities:** Conducted functionality, regression, and load testing in Test, UAT, and Pre-Prod environments.
+- 📊 **Performance Monitoring:** Monitored application performance with **Dynatrace** during testing phases.
+- 🗄️ **Database Verification:** Wrote SQL queries to verify data between front-end and back-end databases.
+- 🎟️ **IT Support Management:** Used **ServiceNow** for managing IT support tickets.
 
 </details>
 
