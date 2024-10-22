@@ -126,22 +126,36 @@ I am a detail-oriented **Automation Test Engineer** with over 4 years of hands-o
 ### ![QAWORKFORCE LTD](https://img.shields.io/badge/QAWORKFORCE%20LTD-%23007ACC.svg?style=for-the-badge&logoColor=white&color=black) **Automation Tester** | <span style="color: #999;">  📅</span> <em>November 2023 - Present</em>
 <i>**Client**: Rising Solutions Ltd (SmartScaleHR Platform)</i>
 
- <i>**Tools**:</i>
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![Playwright](https://img.shields.io/badge/Playwright-00B0E4?style=for-the-badge&logo=playwright&logoColor=white) 
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-  ![Xray](https://img.shields.io/badge/Xray-1F3A3D?style=for-the-badge&logo=undefined&logoColor=white)
-  
+<i>**Tools**:</i>
+![JavaScript](https://img.shields.io/badge/JavaScript-%F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![Playwright](https://img.shields.io/badge/Playwright-00B0E4?style=for-the-badge&logo=playwright&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Xray](https://img.shields.io/badge/Xray-1F3A3D?style=for-the-badge&logo=undefined&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![RestAssured](https://img.shields.io/badge/RestAssured-FF6C37?style=for-the-badge&logo=undefined&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![K6](https://img.shields.io/badge/K6-3C87A8?style=for-the-badge&logo=undefined&logoColor=white) 
+![BrowserStack](https://img.shields.io/badge/BrowserStack-00B0E4?style=for-the-badge&logo=browserstack&logoColor=white) 
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) 
+
 <details><summary><b><i>Responsibilities</i></b></summary>
   
-- 🔄 **Agile Ceremonies:** Actively participated in Sprint Planning, Daily Standups, and Sprint Reviews to enhance team collaboration.
-- 📝 **Test Management:** Designed and executed test cases with Xray Test Management for comprehensive testing coverage.
-- 🤖 **Automation:** Developed and maintained automated UI regression tests using Playwright and BDD with Cucumber for increased testing efficiency.
-- 🌐 **API Testing:** Conducted API testing with Postman and automated tests using RestAssured to ensure backend performance.
-- 🚀 **Performance Testing:** Performed performance testing with K6 to identify bottlenecks and improve scalability.
-- 🖥️ **Cross-Browser Testing:** Executed cross-browser testing with BrowserStack for a consistent user experience across platforms.
+- 🔄 **Agile Ceremonies:** Participated in Sprint Planning, Daily Stand-ups, and Retrospectives to align with project goals.
+- 📝 **Collaboration:** Worked with Product Owners and Business Analysts on user stories to inform test strategies.
+- 📊 **Test Management:** Designed and executed test cases using **Xray** for comprehensive coverage.
+- 🤖 **Automation:** Developed automated UI tests with **Playwright** and **BDD-Cucumber** for efficiency.
+- 🌐 **API Testing:** Conducted manual and automated API testing with **Postman** and **RestAssured**.
+- 🗄️ **Database Testing:** Validated CRUD operations in **MySQL**/**PostgreSQL** and automated tests, reducing manual effort by 30%.
+- 🚀 **Performance Testing:** Used **K6** to ensure application stability and performance.
+- 📱 **Cross-Browser Testing:** Executed tests on **BrowserStack** for consistent user experiences.
+- 📊 **CI/CD:** Utilized **Jenkins** for automated test suites and nightly builds.
+- ♿ **Accessibility Testing:** Ensured WCAG compliance using tools like **Wave** and **Lighthouse**.
+- 🔍 **Exploratory Testing:** Conducted exploratory testing to identify defects and documented findings in **JIRA** and **Confluence**.
+
 </details>
 
 
