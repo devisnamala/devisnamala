@@ -197,7 +197,7 @@ I am a detail-oriented **Automation Test Engineer** with over 4 years of hands-o
 
 ---
 
-### <img src="https://img.shields.io/badge/SmartScaleHR-%230D2A3D.svg?style=for-the-badge&logo=undefined&logoColor=white" width="80px"> **Junior Tester** | <span style="color: #999;">📅</span> <em>Mar 2020 - Apr 2021</em>
+### <img src="https://img.shields.io/badge/SmartScaleHR-%230D2A3D.svg?style=for-the-badge&logo=undefined&logoColor=white" width="120px"> **Junior Tester** | <span style="color: #999;">📅</span> <em>Mar 2020 - Apr 2021</em>
 
 <details><summary><b><i>Responsibilities</i></b></summary>
   
