@@ -7,7 +7,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I am a detail-oriented **Automation Test Engineer** with over 4 years of hands-on experience in both manual and automated testing of web applications and API services. I have a passion for ensuring software quality through cutting-edge automation frameworks and processes. I thrive in Agile environments and bring collaborative skills that suit diverse teams and projects.
+I am a detail-oriented **Test Engineer** with over 3 years of hands-on experience in both manual and automated testing of web applications and API services. I have a passion for ensuring software quality through cutting-edge automation frameworks and processes. I thrive in Agile environments and bring collaborative skills that suit diverse teams and projects.
 <br><br>
 
 ## 🛠️ Technical Skills
