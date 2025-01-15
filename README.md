@@ -1,13 +1,13 @@
 # <h2> Hi, I'm Devi Sireesha Namala!</h2> 
 # 👨🏻‍💻 <span style="font-family: 'Times New Roman', Times, serif;">![Automation Test Engineer](https://img.shields.io/badge/Automation_Test_Engineer-black?style=for-the-badge&logo=test-tube&logoColor=white)</span>
-<span style="font-family: 'Times New Roman', Times, serif; font-size: 14px;"><b><h2>4+ Years of Experience | Passionate about Quality Assurance & Automation</b></h2></span>
+<span style="font-family: 'Times New Roman', Times, serif; font-size: 14px;"><b><h2>5 Years of Experience | Passionate about Quality Assurance & Automation</b></h2></span>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I am a detail-oriented **Test Engineer** with over 3 years of hands-on experience in both manual and automated testing of web applications and API services. I have a passion for ensuring software quality through cutting-edge automation frameworks and processes. I thrive in Agile environments and bring collaborative skills that suit diverse teams and projects.
+I am a detail-oriented **Test Engineer** with nearly 5 years of hands-on experience in both manual and automated testing of web applications and API services. I have a passion for ensuring software quality through cutting-edge automation frameworks and processes. I thrive in Agile environments and bring collaborative skills that suit diverse teams and projects.
 <br><br>
 
 ## 🛠️ Technical Skills
