@@ -129,7 +129,7 @@ I am a detail-oriented **Test Engineer** with nearly 4 years of hands-on experie
 <i>**Tools**:</i>
 ![JavaScript](https://img.shields.io/badge/JavaScript-%F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![Playwright](https://img.shields.io/badge/Playwright-00B0E4?style=for-the-badge&logo=playwright&logoColor=white) 
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Xray](https://img.shields.io/badge/Xray-1F3A3D?style=for-the-badge&logo=undefined&logoColor=white) 
@@ -147,7 +147,7 @@ I am a detail-oriented **Test Engineer** with nearly 4 years of hands-on experie
 - 🔄 **Agile Ceremonies:** Participated in Sprint Planning, Daily Stand-ups, and Retrospectives to align with project goals.
 - 📝 **Collaboration:** Worked with Product Owners and Business Analysts on user stories to inform test strategies.
 - 📊 **Test Management:** Designed and executed test cases using **Xray** for comprehensive coverage.
-- 🤖 **Automation:** Developed automated UI tests with **Playwright** and **BDD-Cucumber** for efficiency.
+- 🤖 **Automation:** Developed automated UI tests with **Cypress** and **BDD-Cucumber** for efficiency.
 - 🌐 **API Testing:** Conducted manual and automated API testing with **Postman** and **RestAssured**.
 - 🗄️ **Database Testing:** Validated CRUD operations in **MySQL**/**PostgreSQL** and automated tests, reducing manual effort by 30%.
 - 🚀 **Performance Testing:** Used **K6** to ensure application stability and performance.
